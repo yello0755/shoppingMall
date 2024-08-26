@@ -17,8 +17,6 @@
  3) 장바구니 목록 및 선택 삭제 기능 구현
  4) 관리자 주문 관리(조회/수정) 기능 구현
 <br>
----
-<br>
 - DB 모델링
 
 ![image](https://github.com/user-attachments/assets/c1657acd-516e-4785-931f-24443fd81bed)
