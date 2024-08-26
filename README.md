@@ -13,7 +13,6 @@
  4) Tools : Eclipse 2021
  ```
 
-
 ## 담당역할
 ```
  1) 프로젝트 기획 및 PM
@@ -22,9 +21,9 @@
  4) 관리자 주문 관리(조회/수정) 기능 구현
 ```
 
-
 ## DB 모델링
 <p align=center><img src="https://github.com/user-attachments/assets/eaa8e9e9-dcc9-4d41-9f8b-32633f5ed3e7" width="500" height="250"></p>
+
 
 
 
