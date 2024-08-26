@@ -9,3 +9,5 @@
  2) 상품 목록/상세보기 기능 구현, 상품 검색 기능
  3) 장바구니 목록 및 선택 삭제 기능 구현
  4) 관리자 주문 관리(조회/수정) 기능 구현
+
+![image](https://github.com/user-attachments/assets/9e6053c1-bd5f-4575-822e-d6e41b296c98)
